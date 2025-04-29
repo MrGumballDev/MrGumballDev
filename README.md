@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrGumballDev
-- 👀 I’m interested in ...PS3,xbox 360, pc gaming and all of hardware and software
-- 🌱 I’m currently learning ...Tech
+- 👀 I’m interested in ...PS3,xbox 360 RGH and PC Gaming
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ... Idk
 - 📫 How to reach me ... idk too
 - 😄 Pronouns: ...
